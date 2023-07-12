@@ -1,2 +1,2 @@
-# EventEatss
-4th sem major project
+# EventEats
+ 4th sem major project
